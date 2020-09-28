@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.author       = "eziochiuchina@hotmail.com"
 
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   
